@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hegde0
 - 👀 I’m interested Embedded Systems and Hardware
 - 💞️ I’m looking to collaborate on Embedded software development projects
-- 📫 How to reach me shreeshahegde0@gmail.com
+- 📫 How to reach me shreeesha0@proton.me
 - 😄 Pronouns: he/him
 
 <!---
